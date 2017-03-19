@@ -53,26 +53,26 @@
 		<div class="col-xs-12">    
 			<div class="demo">
 			  <div id="terminal">
-				  <h1> On the ontology of faith </h1>
-<p>- Why didn&rsquo;t you go to sleep?</p>
+				  <h1> On the Ontology of Faith </h1>
+<p>- Why didn't you go to sleep?</p>
 <p>- Got things to do. You know, building a castle.</p>
-<p>- Seriously, still? Can&rsquo;t you see all the cracks and missing pieces?</p>
+<p>- Seriously, still? Can't you see all the cracks and missing pieces?</p>
 <p>- Yes, I can.</p>
-<p>- Then, why don&rsquo;t you just leave it?</p>
+<p>- Then, why don't you just leave it?</p>
 <p>- I have faith I can build it.</p>
 <p>- Look at yourself, you already got so much stuff - you&rsquo;re doing so fine! Why waste so much time on such tiny little thing?</p>
 <p>&nbsp;- I have faith it makes my city stronger.</p>
-<p>- Are you crazy? Look at your city - all those supermarkets, banks, restaurants, hotels, clubs&hellip;.</p>
+<p>- Are you crazy? Look at your city - all those supermarkets, banks, restaurants, hotels, clubs...</p>
 <p>- Burn this shit to the ground, have some fun, enjoy the night!</p>
-<p>- No, thanks. I&rsquo;m not crazy - they&rsquo;re just not a castle.</p>
+<p>- No, thanks. I&rsquo;m not crazy - they're just not a castle.</p>
 <p>- So, you&rsquo;re just gonna stay here?</p>
 <p>- Yes.</p>
-<p>- What happened to you? You&rsquo;re insane!</p>
+<p>- What happened to you? You're insane!</p>
 <p>- Where&rsquo;s your intelligence? Your ambition? Your rationality? Your wisdom?</p>
 <p>- Where&rsquo;s your goddamn brilliance?</p>
 <p>- They&rsquo;re all here.</p>
 <p>- Where? Cemetery? Madhouse?</p>
-<p>- No. They&rsquo;re right here in my faith.</p>
+<p>- No. They're right here in my faith.</p>
 					 
 
 
