@@ -68,7 +68,7 @@
 <p>- Where&rsquo;s your goddamn brilliance?</p>
 <p>- They&rsquo;re all here.</p>
 <p>- Where? Cemetery? Madhouse?</p>
-<p>- No. They're right here in my Faith.</p>
+<p>- No. They're all here in my Faith.</p>
 </div>
 				
 
