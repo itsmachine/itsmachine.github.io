@@ -59,7 +59,7 @@
 <p>- I have faith I can build it.</p>
 <p>- Look at yourself, you already got so much stuff - you&rsquo;re doing so fine! Why waste so much time on such tiny little thing?</p>
 <p>&nbsp;- I have faith it makes my city stronger.</p>
-<p>- Are you crazy? Look at your city - all those supermarkets, banks, restaurants, hotels, clubs... Burn this shit to the ground, have some fun, enjoy the night!</p>
+<p>- Are you crazy? Look at your city - all those supermarkets, banks, restaurants, hotels, clubs... Burn this to the ground, have some fun, enjoy the night!</p>
 <p>- No, thanks. I&rsquo;m not crazy - they're just not a castle.</p>
 <p>- So, you&rsquo;re just gonna stay here?</p>
 <p>- Yes.</p>
