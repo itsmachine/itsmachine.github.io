@@ -15,7 +15,7 @@
 }
     #usage,.demo,h1,.tear {
       font-family: Consolas, Menlo, Monaco, monospace;
-      background-color: #2A242D; 
+      background-color: #2A242D;
       color: #FDFBFB;
       font-size: 14px;
       line-height: 30px
@@ -25,7 +25,7 @@
 	color:#B1AFAF;
      }
      .tear {
-	     color: #A9A9A9;
+	     color:#07A8F6;
 	   }
   </style>
 </head>
@@ -44,9 +44,6 @@
     transform: rotate(10deg)
   }
 }
- .grey {
-	 
-	}
 </style>
 <div class="container-fluid">
 	<div class="row">
@@ -73,7 +70,11 @@
 <p>- They&rsquo;re all here.</p>
 <p>- Where? Cemetery? Madhouse?</p>
 <p>- No. They're right here in my faith.</p>
-					 
+</div>
+				
+
+				<li></li>
+
 
 
 			  <div id="usage"></div>
