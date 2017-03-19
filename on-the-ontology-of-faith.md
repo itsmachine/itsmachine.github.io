@@ -53,7 +53,7 @@
 				  <h1> On the Ontology of Faith </h1>
 <p>- Why didn't you go to sleep?</p>
 <p>- Got things to do. You know, building a castle.</p>
-<p>- Seriously, still? Can't you see all the cracks and missing pieces?</p>
+<p>- Seriously? Still? Can't you see all the cracks and missing pieces?</p>
 <p>- Yes, I can.</p>
 <p>- Then, why don't you just leave it?</p>
 <p>- I have faith I can build it.</p>
