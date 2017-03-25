@@ -1,6 +1,6 @@
 // GUI --------------------------------------------------------
 /* exported iniGui, updateGuiInfo */
-/*
+
 function initGui() {
 
 	gui = new dat.GUI();
@@ -47,4 +47,4 @@ function updateGuiInfo() {
 		gui_info.__controllers[ i ].updateDisplay();
 	}
 }
-*/
+
