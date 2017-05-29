@@ -27,18 +27,18 @@
         <div class='vcard'>
           <script type="text/javascript">
       var logo = document.querySelector('.photoco');
-      var angle = Math.pi*2;
+      var angle = Math.pi;
       var options = {
          colorMode: 'color',
          compositeOperation: 'lighten',
          key: 'low',
-         lineWidth: 3,
+         lineWidth: 4,
          lineMode: 'square',
          origin: ['bottom', 'top'],
          outputSize: 'container',
          pathFinderCount: 11,
          speed: 10,
-         turningAngle: 2*pi
+         turningAngle: angle
       };
       var chromata = new Chromata(logo, options);
       chromata.start();
