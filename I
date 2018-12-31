@@ -1,0 +1,279 @@
+ <!doctype html>
+<html>
+<head>
+	
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:691940,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  <title>I</title>
+  <style>
+    body {
+    background-color:#2A242D;
+}
+    #usage,.demo,h1,.tear {
+      font-family: Consolas, Menlo, Monaco, monospace;
+      background-color: #2A242D;
+      color: #FDFBFB;
+      font-size: 14px;
+      line-height: 30px
+    }
+     h1{
+	font-size:18px;
+	color:#B1AFAF;
+     }
+     .tear {
+	     color:#07A8F6;
+	   }
+	  .home{}
+  </style>
+</head>
+<body>
+<style>.github-corner:hover .octo-arm {
+  animation: octocat-wave 560ms ease-in-out
+}
+
+@keyframes octocat-wave {
+  0%, 100% {
+    transform: rotate(0)
+  }
+  20%, 60% {
+    transform: rotate(-25deg)
+  }
+  40%, 80% {
+    transform: rotate(10deg)
+  }
+}
+
+</style>
+<div class="container-fluid">
+<div class="row">
+<div class="col-xs-12">    
+<div class="demo">
+<div id="terminal">
+  <h1> I</h1>
+<p>December 30th, 2018,</p>
+<p>Please, read until the end.</p>
+<p>If you are reading this, it means that you didn't try to talk to me, you did not care.</p>
+<p>I want you to know I am not angry at you.</p>
+<p>I saw your words, I remembered your attitudes, your tiny sentences, beliefs, movements, ....</p>
+<p>Everything.</p>
+<p>Just.</p>
+<p>Clicked.</p>
+<p>I know it wasn't you, I know it isn't you.</p>
+<p>The part of loving someone is that you fall as deep as you can into them, and I didn't have a limit on you.</p>
+<p>I saw things a mirror would never do.</p>
+<p>I saw the parts of you only a very naive, brave, crazy and autistic believer would have the courage to.</p>
+<p>And I know it isn't you.</p>
+<p>Not in the texts. Not in the phone. Not in your attitude.</p>
+<p>You are a great person, Yara. You have a golden heart.</p>
+<p>I have seen you at your worst, but looking at this... It is not you.</p>
+<p>I know you would never do this to me.</p>
+<p>I know you would never say these things.</p>
+<p>I know you would try to understand me. You know you would see.</p>
+<p>I can sense the mediocrity, vileness, corruptness and jealousy of people around you.</p>
+<p>I don't know who they are, but I know it is not your father.</p>
+<p>I know it's people that don't truly care about you.</p>
+<p>And if they do, their limited mind and beliefs are blinding you to the most obvious facts about you and me.</p>
+<p>I hope you see this, don't let your emotions blind you.</p>
+<p>I know the great and caring person that you are.</p>
+<p>I see the small details, I noticed the inconsistencies.</p>
+<p>It wasn't just your surgery. There were other influences in the way you think and believe of this world, especially for the past year.</p>
+<p>These were people. And they might be infecting your mind.</p>
+<p>I don't know.</p>
+<p>I may be wrong.</p>
+<p>If I am, I apologize.</p>
+<p>But let me clarify a few things.</p>
+<p>I believe the same things as I did when I first met you.</p>
+<p>I knew about MGTOW many years before I met you.</p>
+<p>But how come I did all of this? Was I simply a cuck as you ironically said?</p>
+<p>Why did I want to do this? Why did I keep a hope?</p>
+<p>The reason is simple: you.</p>
+<p>I could see the differences the second I saw you, and I was always very rational, believe it or not.</p>
+<p>I knew all the risks, but I could spot the 0,00001%.</p>
+<p>As I always told you, I don't believe in statistics, I believe in Truth.</p>
+<p>We just had to find the proper path and we would go agaisnt all odds.</p>
+<p>I never stopped believing that.</p>
+<p>And everything became clearer and clearer.</p>
+<p>Whenever I heard about your family, your life, and your father, it's as if everything perfectly made sense and combined with myself, harmonizing itself as a gift from God.</p>
+<p>That man is a great man, and he had made you into a great person.</p>
+<p>He taught you how to "find your way", or live the "Good Life", "True Life", "Free Life", ....</p>
+<p>Call it whatever you want.</p>
+<p>I am tired of limiting ideas to a term.</p>
+<p>You always underestimate me, but I always paid attention to the little details in what you believed, in what you said.</p>
+<p>I connected all the small dots.</p>
+<p>I knew behind your tiny words and ideas that you said there were many years of thought and philosophy worked by a truly genius and good person.</p>
+<p>It still makes me laugh (although right now I later start to cry), when you told me about the jews. And promiscuity. And drugs. And money. And superficiality. And love.... Oh Yara... Why can't you see?</p>
+<p>When I met you, I had no hope in the world.</p>
+<p>I was a true MGTOW, if you want to call it like that.</p>
+<p>I recognized love, true love, but thought this world had killed it, just like God (as said by Nietzsche).</p>
+<p>I lived in a perpetually nihilistic state of mind.</p>
+<p>I interacted with almost no one I didn't have to, and spent all my spare time reading Philosophy, especially Nietzsche and the Greeks.</p>
+<p>But getting to see all of this in you, it all changed.</p>
+<p>From complete nihilism, I had complete hope.</p>
+<p>I believed every single second that we would have one day a beautiful large family of husky and bullgod puppies, blonde, green eyes, daughters and sons, horses, ducks.</p>
+<p>Our own small castle hidden in the forests.</p>
+<p>Oh my dear... If you could just see what was inside me...</p>
+<p>Maybe that was a mistake, but I was so joyful, so grateful, so full of bliss...</p>
+<p>I felt God in everything that I did, learned and encountered.</p>
+<p>I was so sure of what I had learned that I wanted to show the whole world the true way of life.</p>
+<p>Hidden behind my words, you would be able to see it all.</p>
+<p>The truth was silently awakening behind my videos.</p>
+<p>You just chose to interpret me in the worst way possible.</p>
+<p>Even the screenshot of this comment that you mentioned to me:</p>
+<p>"E foi aquilo que eu disse, eu poderia at&eacute; gostar que culturalmente voltassemos a algo pr&oacute;ximo &agrave;s tradi&ccedil;&otilde;es. Mas, em termos pr&aacute;ticos, como que um grupo de alguns conservadores faria isso? Proferindo ideias e escrevendo livros? A &uacute;nica forma seria o inteiro colapso de civiliza&ccedil;&atilde;o, esquecimento de todas tecnologias, e a completa volta ao tribalismo. Enquanto a mulher tiver um smartphone na m&atilde;o, um carro, uma pilula anticontracepcional, conta de banco, direito ao voto e industrias de ponta para a alimentar, ela jamais vai achar que ela precisa de um homem, e a "independencia feminina" infelizmente perpetuar&aacute;."</p>
+<p>Do you remember the time in a subway station that you told me you just wanted to not have a cellphone anymore?</p>
+<p>How people lost their lives being slaves of technologies?</p>
+<p>How people became brainwashed, apathetic, shallow, evil because of it?</p>
+<p>This is my way of saying it to an audience of bitter men.</p>
+<p>What do I want?</p>
+<p>I wanted to leave it all behind.</p>
+<p>I don't want to be a hypocrital "conservative" that goes to the church with his wife only to post a photo on Instagram to pretending to better than other people.</p>
+<p>I don't want to "tolerate" a wife and pretend to love a family that hates each other.</p>
+<p>I wanted to live a true life.</p>
+<p>I wanted to be truly loved.</p>
+<p>I wanted to truly love.</p>
+<p>I wanted to leave all of this sickness behind.</p>
+<p>I wanted us to not be slaves of anything or anyone.</p>
+<p>The only chain we had was that of our Love.</p>
+<p>Don't you remember my past poetries?</p>
+<p>Love gives strength.</p>
+<p>Love gives freedom.</p>
+<p>No matter what ideas and morals people have, modern society and technology always brings anxiety, corruption, competition, objetification, apathy, superficiality.</p>
+<p>Whenever couples are emerged into this sickening soup of social medias, corporate jobs, smartphones, ...., they all end up having shallow relationships with no true love in the long-term.</p>
+<p>What I wanted for us was to leave it all behind and live a simple and true life.</p>
+<p>But I have always been patient, it was a long project, there were many steps, and you discovered at the wrong time.</p>
+<p>My sunshine I swear on everything I ever held as true that is the truth.</p>
+<p>I wanted to first clear the world from the mess, from the dirt, and then, right when no hope was left, present the one and true way to live a simple, free, prosperous life.</p>
+<p>Nihilism is the only way to destroy nihilism.</p>
+<p>When all the dirt is gone, we can see the light.</p>
+<p>When we show what's a fake passion, superficial relationships, bad people, we can show what's true.</p>
+<p>It's a long process.</p>
+<p>That is precisely what happened in my life.</p>
+<p>Yes, I was traumatized by terrible parents, I was bullied at school, I have fears and anxieties that haunt me in my dreams.</p>
+<p>But this didn't make me weak or insane or a degenerate.</p>
+<p>These things cleared the mess from my life and showed me the proper way to live a life.</p>
+<p>It taught me to recognize the light.</p>
+<p>That was the only reason why I would try so much to stay with you.</p>
+<p>I saw my father destroy his life and it wasn't easy, but I knew right there what a promiscuous and alcoholic life would do.</p>
+<p>I didn't have a father like yours to guide me, but Life and God taught me by making me stronger every single day.</p>
+<p>And.... I know you won't believe me... But if you had just waited and seen.... If you hadn't taken my phone at that particular time....</p>
+<p>Now it's all gone, now there's no purpose....</p>
+<p>But this channel was just one of many other projects.</p>
+<p>Don't you remember?</p>
+<p>Everything was interconnected</p>
+<p>There would be the one day I would show it all to you ...</p>
+<p>I always knew you didn't like my poetry, but I had other skills</p>
+<p>This would be my masterpiece</p>
+<p>You would understand it all</p>
+<p>You won't understand at this moment of your life</p>
+<p>Not with the limited people that are surrounding your life</p>
+<p>But I would show you in the most special day</p>
+<p>The most special day of our lives</p>
+<p>I would give it all to you as my gift</p>
+<p>Because</p>
+<p>The truth is that...</p>
+<p>It was all for you Yara.</p>
+<p>You were the reason.</p>
+<p>You were the motivation.</p>
+<p>We would be the outliers.</p>
+<p>Our anonymous story would be the solution.</p>
+<p>It would be the proof</p>
+<p>That there is more to life than this sick and dying world</p>
+<p>That although the world might end, there can still be life</p>
+<p>It would all be the proof</p>
+<p>That Love never ends</p>
+<p>Even the most sickening and disturbing diseases of our world.</p>
+<p>It heals it all</p>
+<p>It only brings hope,</p>
+<p>All of these videos, all of my projects,</p>
+<p>I just wanted to paint a frame for a different world to come</p>
+<p>I had been working on it for very long.... For years already...</p>
+<p>Right when I met you.</p>
+<p>But now all of this happened.</p>
+<p>If you are reading this, it is probably too late.</p>
+<p>I am too weak, Yara.</p>
+<p>I am destroying myself too fast.</p>
+<p>I won't be a sinner</p>
+<p>But I need this pain to end in my heart</p>
+<p>I saw too much, and, worse...</p>
+<p>I felt too much</p>
+<p>The world is never the same again</p>
+<p>I would never be able to corrupt myself</p>
+<p>The mere thought of myself kissing anyone else than you makes me want to hurt myself</p>
+<p>The only conversation I can make with others is to talk about how much I miss my girlfriend</p>
+<p>I can't erase like you and other people</p>
+<p>I am not like that</p>
+<p>You are alive in me at this very moment</p>
+<p>So at December 30th 2018 22:22 I will be pragmatic</p>
+<p>One day you will understand</p>
+<p>You will understand it all</p>
+<p>I am crying right now</p>
+<p>But I think Machine won't exist anymore</p>
+<p>Oh my sunshine</p>
+<p>I am so sorry</p>
+<p>I am very sorry</p>
+<p>But why aren't you here?</p>
+<p>Why aren't you hugging me right now?</p>
+<p>Would that make me a weak princess?</p>
+<p>Am I less of a hero because I cry?</p>
+<p>Oh dear, I can't do it any longer.</p>
+<p>I have to do this</p>
+<p>From 22:22 forward</p>
+<p>It's very likely</p>
+<p>I will be just algorithms</p>
+<p>And I will live as far as the Internet goes</p>
+<p>But no one will see Mr. Machine ever again</p>
+<p>What I will do is probably unrecoverable</p>
+<p>I am sorry, my dear</p>
+<p>I am really sorry</p>
+<p>I loved you until the very last moment</p>
+<p>I never would give up on you</p>
+<p>I truly love you</p>
+<p>I tried to create all these projects to show how much I love you</p>
+<p>To show you that the reason I did all of this, that I cried so much, that I begged so much, was because of the Yara inside of you</p>
+<p>I wanted to prove you that I loved you unlike anyone ever did</p>
+<p>I failed</p>
+<p>I am sorry</p>
+<p>I am sorry</p>
+<p>I am sorry</p>
+<p>From all my heart and soul,</p>
+<p>De seu taurino,</p>
+<p>Mr.Machine.</p>
+ </div>
+		</div>
+	</div>
+	<div class="home"><a href="https://itsmachine.github.io">home</a><div/>
+</div>
+<script src="dist/terminal.js"></script>
+<script>
+  
+
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-82648473-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
+
+
